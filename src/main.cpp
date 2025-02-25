@@ -1,5 +1,5 @@
 /*
- * B. Hartmann - DTN05 - 1AHITM - 2024/25
+ * B. Hartmann - 2024/25
  * This Code controls a RGB LED with PWM
  * Level 1: Constant color
  * Level 2: Serial input for color
